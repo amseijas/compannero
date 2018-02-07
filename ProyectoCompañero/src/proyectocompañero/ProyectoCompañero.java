@@ -17,6 +17,7 @@ public class ProyectoCompañero {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("hola compañero");
+        System.out.println("hago el primer cambio");
     }
     
 }
